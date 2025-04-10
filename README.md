@@ -4,9 +4,7 @@ Hello, I'm Kash! I'm just an amateur. I study and practice JavaScript and React!
 
 ## My project
 
-I'm owner Kamish Team that create Discord bot **Kamish**. Kamish is a small game-themed bot!
-
-I'm  developer kamish site who wrote on React + Vite!
+I'm owner Kamish Team that create Discord bot **Kamish**. Kamish is a small game-themed bo who wrote on JavaScript! And developer kamish site who wrote on React + Vite!
 
 ## My statistics
 
