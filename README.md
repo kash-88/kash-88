@@ -8,6 +8,11 @@ Kamish
 
 Kamish Site ( React + vite )
 
+## My statistics
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamish522&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamish522&layout=compact&theme=radical)
+
 ## My Tech Stack
 
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
@@ -15,9 +20,4 @@ Kamish Site ( React + vite )
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) 
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-
-## My statistics
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kamish522&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamish522&layout=compact&theme=radical)
 
