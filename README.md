@@ -1,12 +1,12 @@
-## Hello!
+## About
 
-Welcome text!
+Hello, I'm Kash! I'm just an amateur. I study and practice JavaScript and React!
 
 ## My project
 
-Kamish
+I'm owner Kamish Team that create Discord bot **Kamish**. Kamish is a small game-themed bot!
 
-Kamish Site ( React + vite )
+I'm  developer kamish site who wrote on React + Vite!
 
 ## My statistics
 
