@@ -6,8 +6,6 @@
 ╰◟◞ ͜ ◟╭◜◝ ͡ ◜◝╮ ͜ ◟◞╯
 </h1>
 
-## About
-
 Hello, I'm Kash! I'm just an amateur. I study and practice JavaScript and React!
 
 ## My project
