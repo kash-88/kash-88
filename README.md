@@ -6,11 +6,16 @@
 ╰◟◞ ͜ ◟╭◜◝ ͡ ◜◝╮ ͜ ◟◞╯
 </h1>
 
-Hello, I'm Kash! I'm just an amateur. I study and practice JavaScript and React!
+<p align="center">Hi, I'm Kash! I learn and build projects with JavaScript and React!</p>
+<h1 align="center"></h1>
 
-## My project
+<h3 style="font-size: 100" align="center">My project</h3>
 
-I'm owner Kamish Team that create Discord bot **Kamish**. Kamish is a small game-themed bo who wrote on JavaScript! And developer kamish site who wrote on React + Vite!
+> [KAMISH BOT](HTTPS://DISCORD.GG/8p8NYhparv) - JavaScript, Discord.js, 
+> 
+> [KAMISH SITE](HTTPS://KAMISH.PRO) - React, Vite
+> 
+> [KAMISH DOCS](HTTPS://DOCS.KAMISH.PRO) - Vite press
 
 ## My statistics
 
