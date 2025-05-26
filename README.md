@@ -6,8 +6,9 @@
 ╰◟◞ ͜ ◟╭◜◝ ͡ ◜◝╮ ͜ ◟◞╯
 </h1>
 
-<p align="center">Hi, I'm Kash! I learn and build projects with JavaScript and React!</p>
-<h1 align="center"></h1>
+<h3 align="center">Hi, I'm Kash! I learn and build projects with JavaScript and React!</h3>
+
+##
 
 <h3 style="font-size: 100" align="center">My project</h3>
 
