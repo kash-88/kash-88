@@ -12,7 +12,7 @@
 
 <div align="center">
 
-<h2 style="font-size:24px;">🔗 Быстрые ссылки</h2>
+<h2 style="font-size:24px;">My project</h2>
 
 </div>
 
@@ -39,6 +39,8 @@
 
 <h3 align="center">Github statistics</h3>
 
-![GitHub views](https://komarev.com/ghpvc/?username=kamish522)
-![GitHub stats](https://github-readme-stats-sepia-ten-25.vercel.app/api?username=kamish522&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats-sepia-ten-25.vercel.app/api/top-langs/?username=kamish522&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats-sepia-ten-25.vercel.app/api?username=kash-88&theme=radical&show_icons=true)
+![Top Langs](https://github-readme-stats-sepia-ten-25.vercel.app/api/top-langs/?username=kash-88&layout=compact&theme=radical)
+
+![GitHub views](https://komarev.com/ghpvc/?username=kash-88)
+
