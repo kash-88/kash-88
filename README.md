@@ -37,6 +37,3 @@
 <h3 align="center">Wakatime statistics</h3>
 
 ![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?theme=tokyonight&username=kash_88)
-![Wakatime's Languages](https://wakatime-statistic.vercel.app/api/top-langs/?theme=tokyonight&username=kash_88)
-![Wakatime's WakaTime](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?username=kash_88&theme=tokyonight&hide_border=true)
-
