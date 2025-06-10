@@ -12,8 +12,6 @@
 
 <h3 align="center">My stack</h3>
 
-###
-
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -29,9 +27,16 @@
 <h3 align="center">Github statistics</h3>
 
 ##
-![GitHub stats](https://github-readme-stats-sepia-ten-25.vercel.app/api?username=kash-88&theme=radical&show_icons=true)
-![Top Langs](https://github-readme-stats-sepia-ten-25.vercel.app/api/top-langs/?username=kash-88&layout=compact&theme=radical)
-![Waka Time](https://wakatime.com/share/@78124013-6def-4482-8615-280c0fb04d64/9021aeba-ab82-4b15-a800-273948fa369a.svg)
+![GitHub stats](https://github-readme-stats-sepia-ten-25.vercel.app/api?username=kash-88&theme=tokyonight&show_icons=true)
+![Top Langs](https://github-readme-stats-sepia-ten-25.vercel.app/api/top-langs/?username=kash-88&layout=compact&theme=tokyonight)
 
 ![GitHub views](https://komarev.com/ghpvc/?username=kash-88)
+
+##
+
+<h3 align="center">Wakatime statistics</h3>
+
+![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?username=kash_88&theme=tokyonight)
+![Wakatime's Languages](https://github-readme-stats-sepia-ten-25.vercel.app/api/top-langs/wakatime?username=kash_88&theme=tokyonight&hide=css&hide_border=true)
+![Wakatime's WakaTime](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?username=kash_88&theme=tokyonight&hide_border=true)
 
