@@ -31,7 +31,7 @@
 ##
 ![GitHub stats](https://github-readme-stats-sepia-ten-25.vercel.app/api?username=kash-88&theme=radical&show_icons=true)
 ![Top Langs](https://github-readme-stats-sepia-ten-25.vercel.app/api/top-langs/?username=kash-88&layout=compact&theme=radical)
-![Waka Time]https://wakatime.com/share/@78124013-6def-4482-8615-280c0fb04d64/9021aeba-ab82-4b15-a800-273948fa369a.svg)
+![Waka Time](https://wakatime.com/share/@78124013-6def-4482-8615-280c0fb04d64/9021aeba-ab82-4b15-a800-273948fa369a.svg)
 
 ![GitHub views](https://komarev.com/ghpvc/?username=kash-88)
 
