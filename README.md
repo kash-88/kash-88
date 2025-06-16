@@ -10,8 +10,6 @@
 
 ##
 
-<h3 align="center">My stack</h3>
-
 <div align="center">
   
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
@@ -24,16 +22,8 @@
 
 ##
 
-<h3 align="center">Github statistics</h3>
+<h3 align="center">Github / Wakatime statistics</h3>
 
 ##
 ![GitHub stats](https://github-readme-stats-sepia-ten-25.vercel.app/api?username=kash-88&theme=tokyonight&show_icons=true)
-![Top Langs](https://github-readme-stats-sepia-ten-25.vercel.app/api/top-langs/?username=kash-88&layout=compact&theme=tokyonight)
-
-![GitHub views](https://komarev.com/ghpvc/?username=kash-88)
-
-##
-
-<h3 align="center">Wakatime statistics</h3>
-
 ![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?theme=tokyonight&username=kash_88)
