@@ -20,8 +20,6 @@
 
 </div>
 
-##
-
 <h3 align="center">Github / Wakatime statistics</h3>
 
 ##
