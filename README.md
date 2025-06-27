@@ -27,4 +27,27 @@
 
 ---
 
+# My project’s
+
+| Name                | Description                                                 |
+|-----------------------|----------------------------------------------------------|
+| 🎮 [**Discord Bot**](https://github.com/kash-88/kamish-public) | Game bot based on Discord-gamecord |
+| 🖥️ [**Npm library**](https://github.com/kash-88/alerts)| Npm library for interacting with DonationAlerts API |
+
+---
+
+# WakaTime Statistics
+
 ![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?theme=tokyonight&username=kash_88)
+
+---
+
+# GitHub Statistics
+![Github's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kash-88&theme=radical)
+
+---
+
+<p align="center">
+    <strong>Thanks for visiting! Happy coding! 🖖</strong>
+</p>
+<a href="#"><img align="left" alt="Finish" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Finish.svg" /></a>
