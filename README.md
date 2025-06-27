@@ -32,7 +32,7 @@
 | Name                | Description                                                 |
 |-----------------------|----------------------------------------------------------|
 | 🎮 [**Discord Bot**](https://github.com/kash-88/kamish-public) | Game bot based on Discord-gamecord |
-| 🖥️ [**Npm library**](https://github.com/kash-88/alerts)| Npm library for interacting with DonationAlerts API |
+| 🖥️ [**DonationAlerts SDK**](https://github.com/kash-88/alerts-SDK)| Npm library for interacting with DonationAlerts API |
 
 ---
 
