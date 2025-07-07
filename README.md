@@ -38,12 +38,12 @@
 
 # WakaTime Statistics
 
-![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?theme=tokyonight&username=kash_88)
+![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?username=kash_88&custom_title=WakaTime%20Stats%20%28since%20Oct%2028%2C%202024%29&theme=github_dark&hide_border=true&layout=compact&langs_count=10)
 
 ---
 
 # GitHub Statistics
-![Github's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kash-88&theme=radical)
+![Github's Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kash-88&theme=github_dark)
 
 ---
 
