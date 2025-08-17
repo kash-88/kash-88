@@ -22,12 +22,13 @@
 
 ---
 
-# My project’s
+# My personal project's
 
-| Name                  | Description                                                 |
-|-----------------------|----------------------------------------------------------|
-| 🎮 [**Discord Bot**](https://github.com/kash-88/kamish-public) | Game bot based on Discord-gamecord |
+| Name                        | Description                                                                               |
+|-----------------------------|-------------------------------------------------------------------------------------------|
+| 🎮 [**Kamish Bot**](https://github.com/kash-88/kamish-public) | Game bot based on Discord-gamecord                      |
 | 🖥️ [**DonationAlerts SDK**](https://github.com/kash-88/alerts-SDK)| Npm library for interacting with DonationAlerts API |
+| 💕 **Reflex**| Telegram bot for dating based on tinder                                                                  |
 
 ---
 
