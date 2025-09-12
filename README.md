@@ -5,16 +5,13 @@
 
 ##
 
-**💥** — I have been programming for over 3 years since a very young age. My experience includes developing in areas such as Discord Bots, Telegram Bots, Web Applications, Websites, and more!
-
-**👀** — I am passionate about creating bots to automate various processes and ensuring data protection from third parties.
-
-**💞️** — I actively participate in developing third-party projects. A full list of my work is available below!
-
-**📫** — Feel free to contact me:
-- Gmail: [ipomainkra@gmail.com](mailto:ipomainkra@gmail.com)
-- Telegram: [@kash_tea](https://t.me/kash_tea)
-- Discord: [Guilds](https://discord.com/invite/BxMS8zUJvQ)
+- **💥** → I have been programming for over 3 years since a very young age. My experience includes developing in areas such as Discord Bots, Telegram Bots, Web Applications, Websites, and more!
+- **👀** → I am passionate about creating bots to automate various processes and ensuring data protection from third parties.
+- **💞️** → I actively participate in developing third-party projects. A full list of my work is available below!
+- **📫** → Feel free to contact me:
+  - Gmail: [ipomainkra@gmail.com](mailto:ipomainkra@gmail.com)
+  - Telegram: [@kash_tea](https://t.me/kash_tea)
+  - Discord: [Guilds](https://discord.com/invite/BxMS8zUJvQ)
 
 ---
 
