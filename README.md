@@ -1,13 +1,20 @@
 ##
 
-<h3 align="center">Hello, I'm Kash or Mikhail! I Full-stack developer! (Python, TypeScript and React).</h3>
+<h3 align="center">Hi, nice to see you on my Github!</h3>
+<p align="center">I'm Mikhail, also known as Kash.</p>
 
 ##
 
-- 💥 → I have more than 3 years of experience in programming (Creating Discord bots: 2.5 years, Web site/app: 3 months, Docker and Bash: 2 months)
-- 👀 → I study programming in the field of automation and web development
-- 💞️ → Actively participate in the creation of third-party projects
-- 📫 → My social networks: Telegram ([@kash_tea](https://t.me/kash_tea)), Discord (@k_teams or [Guilds](https://discord.com/invite/BxMS8zUJvQ)).
+**💥** — I have been programming for over 3 years since a very young age. My experience includes developing in areas such as Discord Bots, Telegram Bots, Web Applications, Websites, and more!
+
+**👀** — I am passionate about creating bots to automate various processes and ensuring data protection from third parties.
+
+**💞️** — I actively participate in developing third-party projects. A full list of my work is available below!
+
+**📫** — Feel free to contact me:
+- Gmail: [ipomainkra@gmail.com](mailto:ipomainkra@gmail.com)
+- Telegram: [@kash_tea](https://t.me/kash_tea)
+- Discord: [Guilds](https://discord.com/invite/BxMS8zUJvQ)
 
 ---
 
