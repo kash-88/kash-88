@@ -30,15 +30,15 @@
 
 | Name                        | Description                                                                               |
 |-----------------------------|-------------------------------------------------------------------------------------------|
-| 🎮 [**Kamish Bot**](https://github.com/kash-88/kamish-public) | Game bot based on Discord-gamecord                      |
-| 🖥️ [**DonationAlerts SDK**](https://github.com/kash-88/alerts-SDK)| Npm library for interacting with DonationAlerts API |
-| 💕 **Reflex**| Telegram bot for dating based on tinder                                                                  |
+| 🎮 [**Kamish Bot**](https://github.com/kash-88/kamish-public) | My first serious discord bot. Subject: Gaming, Bot based on the gamecord library |
+| 💕 [**Reflex (Okeano)**](https://github.com/Dev14dbq/ReflexG) | My first project in Telegram. Based on Tinder, only a little worse |
+| 🖥️ [**DonationAlerts SDK**](https://github.com/kash-88/alerts-SDK) | Experiment with NPM librarie. SDC for interaction with DonationAlerts API |
 
 ---
 
 # WakaTime Statistics
 
-![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?username=kash_88&custom_title=WakaTime%20Stats%20%28since%20Oct%2028%2C%202024%29&theme=github_dark&hide_border=true&layout=compact&langs_count=10)
+[![Wakatime's Stats](https://github-readme-stats-sepia-ten-25.vercel.app/api/wakatime?username=kash_88&custom_title=WakaTime%20Stats%20%28since%20Oct%2028%2C%202024%29&theme=github_dark&hide_border=true&layout=compact&langs_count=10)](https://wakatime.com/@Kash_88)
 
 ---
 
