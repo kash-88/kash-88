@@ -31,7 +31,7 @@
 | Name                        | Description                                                                               |
 |-----------------------------|-------------------------------------------------------------------------------------------|
 | 🎮 [**Kamish Bot**](https://github.com/kash-88/kamish-public) | My first serious discord bot. Subject: Gaming, Bot based on the gamecord library |
-| 💕 [**Reflex (Okeano)**](https://github.com/Dev14dbq/ReflexG) | My first project in Telegram. Based on Tinder, only a little worse |
+| 💕 [**Okeano**](https://github.com/Dev14dbq/ReflexG) | My first project in Telegram. Based on Tinder, only a little worse |
 | 🖥️ [**DonationAlerts SDK**](https://github.com/kash-88/alerts-SDK) | Experiment with NPM librarie. SDC for interaction with DonationAlerts API |
 
 ---
