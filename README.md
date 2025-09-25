@@ -10,7 +10,6 @@
 - **💞️** → I actively participate in developing third-party projects. A full list of my work is available below!
 - **📫** → Feel free to contact me:
   - Gmail: [ipomainkra@gmail.com](mailto:ipomainkra@gmail.com)
-  - Telegram: [@kash_tea](https://t.me/kash_tea)
   - Discord: [Guilds](https://discord.com/invite/BxMS8zUJvQ)
 
 ---
